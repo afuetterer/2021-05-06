@@ -36,8 +36,17 @@ $ python3 -m venv -h
 
 Empfehlung für Windows-Nutzer*innen: [cmder](https://cmder.net/)
 
+[
 
 Download [Projektverzeichnis](https://box.fu-berlin.de/s/8DpTFdxbCMFf3ni/download)
+
+]
+
+Das Arbeitsverzeichnis klonen:
+```
+$ git clone https://github.com/afuetterer/2021-05-06.git
+$ cd 2021-05-06/
+```
 
 ---
 
@@ -45,9 +54,19 @@ Download [Projektverzeichnis](https://box.fu-berlin.de/s/8DpTFdxbCMFf3ni/downloa
 
 ## Setup
 
+[
+
 - Download: [Projektverzeichnis](https://box.fu-berlin.de/s/8DpTFdxbCMFf3ni/download)
 - Unzip
 - CD in das Verzeichnis
+
+]
+
+Das Arbeitsverzeichnis klonen:
+```
+$ git clone https://github.com/afuetterer/2021-05-06.git
+$ cd 2021-05-06/
+```
 
 ---
 
